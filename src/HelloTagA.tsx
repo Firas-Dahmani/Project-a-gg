@@ -4,6 +4,8 @@ const HelloTagA = () => {
     return (
         <div>
             Hello from A
+            <br />
+            <HelloTagA />
         </div>
     );
 }

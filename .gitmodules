@@ -1,0 +1,6 @@
+[submodule "Project-b-gg"]
+	path = Project-b-gg
+	url = https://github.com/Firas-Dahmani/Project-b-gg.git
+[submodule "src/components/header"]
+	path = src/components/header
+	url = https://github.com/Firas-Dahmani/Project-b-gg.git
